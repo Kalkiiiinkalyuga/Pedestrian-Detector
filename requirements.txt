@@ -1,0 +1,7 @@
+tk
+opencv-python
+imutils
+Pillow
+
+
+
